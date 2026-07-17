@@ -1,0 +1,12 @@
+https://portal.gdc.cancer.gov/projects/TCGA-LUAD
+https://portal.gdc.cancer.gov/projects/TCGA-LUSC
+https://www.cancerimagingarchive.net/collection/cptac-luad/
+https://www.cancerimagingarchive.net/collection/nsclc-radiogenomics/
+https://www.cancerimagingarchive.net/collection/lidc-idri/
+https://cdas.cancer.gov/datasets/nlst/
+https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-13530
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131907
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE153935
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE189144
+https://tabula-sapiens-portal.ds.czbiohub.org/
+https://www.cbioportal.org/

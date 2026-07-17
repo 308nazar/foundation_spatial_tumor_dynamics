@@ -1,0 +1,9 @@
+model:
+  hidden_dim: 64
+  latent_count: 16
+  layers: 2
+  heads: 4
+train:
+  batch_size: 2
+  steps: 2
+  learning_rate: 0.0001

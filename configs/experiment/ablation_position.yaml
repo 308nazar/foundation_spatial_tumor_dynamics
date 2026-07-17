@@ -1,0 +1,7 @@
+model:
+  hidden_dim: 1024
+  latent_count: 512
+  layers: 12
+train:
+  batch_size: 64
+  steps: 200000

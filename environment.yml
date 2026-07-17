@@ -1,0 +1,11 @@
+name: foundation_spatial_tumor_dynamics
+channels: [pytorch, nvidia, conda-forge]
+dependencies:
+  - python=3.11
+  - pytorch=2.3.1
+  - pytorch-cuda=12.1
+  - numpy=1.26
+  - scipy=1.13
+  - pip
+  - pip:
+      - -r requirements.txt
